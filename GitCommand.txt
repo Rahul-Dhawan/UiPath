@@ -1,2 +1,1 @@
 This is Git Conflict and merge attempt.
-This is Conflict.
